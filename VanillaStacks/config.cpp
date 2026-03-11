@@ -26,7 +26,7 @@ class CfgMods
     credits="moldypenguins";
     author="moldypenguins";
     authorID="76561198312711389";
-    version="1.4";
+    version="1.5";
     type="mod";
     dependencies[]={};
     class defs
